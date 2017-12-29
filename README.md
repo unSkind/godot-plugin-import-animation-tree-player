@@ -1,0 +1,1 @@
+# godot-plugin-import-animation-tree-player
