@@ -13,4 +13,4 @@ You can optionally SAVE all the animations, present in the AnimationPlayer, as s
 known bugs:
 once you import all the animations in the AnimationTreePlayer the nodes don't show up immediately, you have to select another node and then select again
 
-[Steps](/ImportAnimTreePlayer.jpg)
+![alt text](/ImportAnimTreePlayer.jpg)
